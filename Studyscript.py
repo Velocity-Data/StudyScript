@@ -5,8 +5,7 @@ import json
 
 '''You need to change the following variables to use the 
 text with the questions you would like to use.'''
-test = 'Comptia A+'
-text = 'A+'
+test = 'A+'
 
 '''This is the class which runs the question and answer scheme 
 of the program and is the heart of the program. Changing this could 
