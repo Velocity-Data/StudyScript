@@ -1,0 +1,52 @@
+[   
+    {
+         "question": "Which OS's can be upgraded to Windows 10?",
+         "answers": ["Windows 8 Home and Pro", "Windows 8 Home", "Windows 8 Enterprise", "Windows 8 Enterprise and Pro"],
+         "correctAnswer": 3
+    },
+    {
+    	 "question": "A server is a machine that users connect to so they can access resources located on that machine.",
+    	 "answers": ["True", "False"],
+    	 "correctAnswer": 0
+    },
+    {
+    	 "question": "A domain controller is: ",
+    	 "answers": ["A replica of the Active Directory", "Contains the AD database", "All Domain Controllers are equal on a Server 2012 Network", "All of the above"],
+    	 "correctAnswer": 3
+    },
+    {
+    	 "question": "If you disable Network Discovery, you can discover other Windows computers on the network.",
+    	 "answers": ["True", "False"],
+    	 "correctAnswer": 1
+    },
+    {
+    	 "question": "A standalone Server is noy a member of a domain.",
+    	 "answers": ["True", "False"],
+    	 "correctAnswer": 0
+    },
+    {
+    	 "question": "DNS does not have the ability to do both forware and reverse lookups.",
+    	 "answers": ["True", "False"],
+    	 "correctAnswer": 1
+    },
+    {
+    	 "question": "What 3 things are needed for a computer to operate properly on a network.",
+    	 "answers": ["A server, An HDD and a enabled Net Discovery", "TCP-P, Subnetmask and Default Gateway", "TCP-IP, a default Gateway and an IPv6 Address"],
+    	 "correctAnswer": 1
+    },
+    {
+         "question": "What filename extension is applied by default to custom consoles that are created for the MMC?",
+         "answers": [".mmc", ".msc", ".con", ".mcn"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "You want to create roaming profiles for users in the Sales department. The profiles should be configured as mandatory & roaming profiles. Which users are able to manage mandatory profiles on Windows-10 computers?",
+         "answers": ["The user who uses the profile", "Server operators", "Power users", "Administrators"],
+         "correctAnswer": 3
+    },
+    {
+         "question": "Your employees use both desktops and tablets to access the company network. Your tablet users use a 4G mobile broadband WiFi connection. You need to monitor how much data your users are using for this connection. How do you accomplish this?",
+         "answers": ["Configure the Broadband connection as a metered network", "Turn on network resource monitoring", "Enable performance monitor", "Enable tablet metering in the tablets' settings"],
+         "correctAnswer": 0
+    }
+]

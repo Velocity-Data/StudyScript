@@ -1,0 +1,317 @@
+[   
+    {
+         "question": "How many bits are in a byte??",
+         "answers": ["2", "4", "6", "8"],
+         "correctAnswer": 3
+    },  
+    {
+         "question": "How many devices can be supported by a USB bus??",
+         "answers": ["4", "100", "127"],
+         "correctAnswer": 2
+    },
+    {
+     	 "question": "194.0.0.0 is in what Class of I.Ps..??",
+     	 "answers": ["A", "B", "1", "C"],
+     	 "correctAnswer": 3
+    },  
+    {
+         "question": "Multimode Fiber Optic is shorter ranged and slower then Singlemode?",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },  
+    {
+         "question": "The IPV6 addressing scheme uses...",
+         "answers": ["Dotted decimal notation", "Hexideceimal notation", "Neither A nor B"],
+         "correctAnswer": 1
+    },
+    {
+     	 "question": "0.0.0.0.0.0.0.0 in IPv6 is equal to 0.0.0.0 in IPv4.",
+     	 "answers": ["True", "False"],
+     	 "correctAnswer": 0
+    },
+    {
+    	 "question": "Which should you use to have TC/IP protocal network computers obtain their IPs automatically?",
+    	 "answers": ["DHCP", "Domain Controller", "Neither"],
+    	 "correctAnswer": 0
+    },
+    {
+         "question": "NSLookup has 2 modes, Interactive and Non-Interactive.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },  
+    {
+         "question": "Which TCP/IP protocal uses port 80?", 
+         "answers": ["HTTPS", "HTTP", "Telnet", "SSH"],
+         "correctAnswer": 0
+    },
+    {
+     	 "question": "What two devices are commonly used to cool components within a PC?",
+     	 "answers": ["Compressed Air and Fans", "Freon and Fans", "Heat Sinks and Fans", "Freon and Heat Sinks"],
+     	 "correctAnswer": 2
+    },  
+    {
+         "question": "After turning on a PC it doesnt boot up and you hear a rythmic ticking sound from inside the case. What is the problem?",
+         "answers": ["Motherboard", "PowerSupply", "Hardrive", "GPU"],
+         "correctAnswer": 2
+    },  
+    {
+         "question": "255.192.225.255 is a valid subnet mask.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+     	 "question": "Drivers are extremely specific software written for the purpose of instructing a particular OS on how to access a piece of hardware.",
+     	 "answers": ["True", "False"],
+     	 "correctAnswer": 0
+    },
+    {
+    	 "question": "Open sourse software: ",
+    	 "answers": ["Is able to be examined and modified", "Can only be modified or examined by ONLY the owner or developer"],
+    	 "correctAnswer": 0
+    },
+    {
+         "question": "GUI is a method by which you use the command line to access the system, software or folders.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },  
+    {
+         "question": "The job of DNS is to resolve IPs to Hostanmes and Hostnames to an ___?",
+         "answers": ["Remote Hostnames", "Website www. addresses", "IPs", "None of the Above"],
+         "correctAnswer": 2
+    },
+    {
+         "question": "Which of the following will often come with an OHRM?",
+         "answers": ["Smart Watch", "GPS", "Fitness Monitor", "All of the Above"],
+         "correctAnswer": 2
+    },
+    {
+         "question": "It is an easy and simple process to a laptop screen with dead pixels?",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "The fuser on the laser printer components are likely to cause a burn?",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },  
+    {
+         "question": "HVPS in a laser printer provides voltages to the corona wires...?",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "With NFC technology you can transfer only small amounts of data and must be in close range(within a few feet).",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Worn corona wire is a cause of jams...",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "What causes laser printer to print vertical black lines on documents?",
+         "answers": ["Fuser is not heating properly", "Toner on the transfer Wire", "Scratch on the EP drum"],
+         "correctAnswer": 2
+    },  
+    {
+         "question": "You cannot mess up anything in regedit and you have nothing to worry about when screwing with it.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "Print spooler formats print jobs to get them ready for the printer?",
+         "answers": ["True", "False"], 
+         "correctAnswer": 0
+    },
+    {
+         "question": "Which laser printer converts AC current into voltages the printer can use?",
+         "answers": ["LPVS", "Charging Carona", "Other", "HPVS"],
+         "correctAnswer": 3
+    },
+    {
+         "question": "Selecting -'Run in Compatibility Mode'- in a programs properties allows it be ran in a newer version of Windows then it was developed for.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },  
+    {
+         "question": "What key must be held during the deletion of files to permanently delete them rather then sending them to the Recycle Bin.",
+         "answers": ["Space Bar", "CTRL", "ALT", "Shift"],
+         "correctAnswer": 3
+    },
+    {
+         "question": "What voltage does the corona wire or corona roller hold?",
+         "answers": ["-600VDC", "+600VDC", "100VDC", "-200VDC", "Unreadable Amount"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "The corona assembly does not get the toner from the photosensitive drum onto the paper?",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "+600VDC is applied to paper to transfer the toner to the paper in an EP process laser printer?",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },  
+    {
+         "question": "Which is not a smart watch OS?",
+         "answers": ["Tizen", "WatchOSC", "Android Wear", "Microsoft Watch"],
+         "correctAnswer": 3
+    },
+    {
+         "question": "Restore points are a copy of your systems configuration at a given time.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Electrophoretic ink is used specifically on e-readers.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Touchscreens use resistive technology?",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Zone File is the file which holds the resource records for a domain on a: ",
+         "answers": ["Domain Controller", "DNS Server", "Remote Host"],
+         "correctAnswer": 1
+    },  
+    {
+         "question": "Which DHCP message type occurs when the DHCP client attempts to inform the DHCP server that it will utilize the I.P Address lease on offer?",
+         "answers": ["DHCP Authentication", "DHCP Authorize", "DHCP Request"],
+         "correctAnswer": 2
+    },
+    {
+         "question": "NTFS does not have as many options as FAT32, such as encrpyt and compress. These are only availble in FAT32",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "Encryption and Compression are NOT mutuallyy exclusive; You can set both at the same time on a file or folder.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "The actual speed of a network is -Data Throughput-.",
+         "answers": ["True", "False"],
+        "correctAnswer": 0
+    },  
+    {
+         "question": "What is the theoretical number of bits that can be transmitted over a network at one time: ",
+         "answers": ["Lan", "Broadband", "Data Throughput", "Bandwidth"],
+         "correctAnswer": 2
+    },
+    {
+         "question": "An Operating System is not responsible for managing communications between itself and another computer.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Telnet is a TCP Protocal on port 23.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Latency is measured by the round-trip time it takes for a data packet to travel from source to destination and back to source.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },  
+    {
+         "question": "What is the command to obtain the Mac Address of your network adapter installed on your computer via command prompt in Windows?",
+         "answers": ["IFconfig all", "IPconfig all", "MacAddConfig Show"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "The Cable company does not need to know the Mac Adress of your modem to activate your service.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "Which is root level of communication: ",
+         "answers": ["Hardware", "Operating System", "Ram", "Other"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "A router is a device that manages traffic between two networks.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },  
+    {
+         "question": "Apple Computer calls 802.11b: ",
+         "answers": ["AeroNet", "Airnet", "Airport", "Airport Extreme"],
+         "correctAnswer": 2
+    },
+    {
+         "question": "Some hardware manufactureers have chosen not to produce Windows 7 drivers for their older devices.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "A(n) ______ server is used to hold setup files of a windows CD to a file server on the network and then you can execute a setup program from each PC, on the server.",
+         "answers": ["Image", "Software", "Distributed", "File"],
+         "correctAnswer": 2
+    },
+    {
+         "question": "A(n) _____ installation is performed by storing the answers to installation questions in a text file or script that Windows calls an -answerfile-.",
+         "answers": ["Scripted", "unattended", "replacement", "attended"],
+         "correctAnswer": 3
+    },
+    {
+         "question": "Which partition is the active partition of a hard drive?",
+         "answers":["System", "Data", "Recovery", "Logical"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Which, creates restore points at regular intervals and just before you install software or hardware?",
+         "answers": ["System Activation", "System Restoration", "System Prevention", "System Protection"],
+         "correctAnswer": 3
+    },
+    {
+         "question": "In task manager; The ____ tab lets you monmitor network activity and bandwidth.",
+         "answers": ["Application", "Services", "Netwiorking", "Processes"],
+         "correctAnswer": 2
+    },
+    {
+         "question": "Windows Experience Index, in Windows 7 and Vista, is a summary index designed to measure the overall performance of a system.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "Windows 7 Advanced Boot Options menu appears when a user presses _____ as the OS is loading.",
+         "answers": ["F2", "F4", "F8", "F12"],
+         "correctAnswer": 2
+    }, 
+    {
+         "question": "Event Viewer is a Windows Tool useful for troubleshooting problems with OS, Appplications, and Hardware.",
+         "answers": ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Safe Mode consolidates several windows administrative tools that you can use to manage the local PC or other computers on the network.",
+         "answers": ["True", "False"],
+         "correctAnswer": 1
+    },
+    {
+         "question": "Can you edit the registry and create a restore point while in Safe Mode?",
+         "answers": ["Yes", "No", "Depends on the situation"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Editing the registry can be dangerous, so tread carefully and backup your work before editing entries.",
+         "answers":  ["True", "False"],
+         "correctAnswer": 0
+    },
+    {
+         "question": "Some brand name computers, have a ____ partition that can be used to reinstall windows.",
+         "answers": ["Hidden Resolution", "Visible Recovery", "Visible Rebuild", "Hidden Recovery"],
+         "correctAnswer": 3
+    },
+    {
+         "question": "The _____ box can protect your system against users making unauthorized changes and against malware installing itself without your knowledge.",
+         "answers": ["UAN", "UAK", "AAC", "UAC"],
+         "correctAnswer": 3
+    }
+]
